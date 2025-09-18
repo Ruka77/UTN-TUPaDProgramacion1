@@ -145,5 +145,6 @@ while True:
     elif opcion == 9:
         print("Gracias por usar nuestro sistema de biblioteca")
         break
+
     else:
         print("Solo puedes ingresar las opciones del 1 al 9")
